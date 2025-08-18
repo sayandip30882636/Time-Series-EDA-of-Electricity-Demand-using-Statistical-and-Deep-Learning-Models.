@@ -2,15 +2,13 @@
 
 # ⚡ PJME Power Consumption: Forecasting Dashboard
 
-An interactive Streamlit dashboard for visualizing, comparing, and forecasting the monthly power consumption of the PJM East (PJME) region. This application provides a hands-on interface for a comprehensive time-series analysis, deploying multiple statistical and deep learning models to predict future energy demand.
-
-![Dashboard Screenshot](https://i.imgur.com/your_screenshot_url.png) ---
+An interactive Streamlit dashboard for visualizing, comparing, and forecasting the monthly power consumption of the PJM East (PJME) region. This application offers a hands-on interface for comprehensive time-series analysis, utilizing multiple statistical and deep learning models to predict future energy demand.
 
 ## 🔮 Features
 
 This dashboard transforms a complex Jupyter Notebook analysis into a user-friendly and cinematic web application with the following features:
 
-- **Cinematic UI:** A beautiful and attractive user interface with an anime-inspired background and modern "glassmorphism" containers.
+- **Cinematic UI:** a beautiful user interface with an anime-inspired background and modern "glassmorphism" containers.
 - **Interactive Visualizations:** All plots are rendered with a theme that matches the UI, providing a cohesive and professional look.
 - **Comprehensive Model Analysis:** Explore a wide range of forecasting models, including:
   - **Statistical Models:** SARIMA, ARIMA, Holt-Winters.
