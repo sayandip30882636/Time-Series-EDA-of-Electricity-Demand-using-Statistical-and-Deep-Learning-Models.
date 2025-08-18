@@ -40,7 +40,7 @@ To run this application on your local machine, follow these steps.
 
 ### Prerequisites
 
-Make sure you have Python 3.8+ installed on your system.
+Ensure you have Python 3.8 or later installed on your system.
 
 ### Installation
 
@@ -99,4 +99,3 @@ The comprehensive analysis performed in this project concludes that a **Combinat
 
 However, for generating future forecasts, individual models like **GRU** and **Holt-Winters** produce more stable and visually plausible seasonal patterns. This highlights the important trade-off between performance on a historical test set and the robustness of future predictions.
 
-For a detailed breakdown, please refer to the
