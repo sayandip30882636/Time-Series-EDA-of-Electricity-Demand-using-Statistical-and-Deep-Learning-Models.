@@ -4,10 +4,11 @@
 
 # For EDA " Click Below "
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hybrid-time-series-forecasting.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hybrid-time-series-eda.streamlit.app/)
 
 # For Analytical "Click Below "
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hybrid-time-series-forecast.streamlit.app/)
 
 
 An interactive Streamlit dashboard for visualizing, comparing, and forecasting the monthly power consumption of the PJM East (PJME) region. This application offers a hands-on interface for comprehensive time-series analysis, utilizing multiple statistical and deep learning models to predict future energy demand.
