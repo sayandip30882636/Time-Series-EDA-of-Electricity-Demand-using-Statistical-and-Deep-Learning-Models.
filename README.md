@@ -2,6 +2,8 @@
 
 # ⚡ PJME Power Consumption: Forecasting Dashboard
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hybrid-time-series-forecasting.streamlit.app/)
+
 An interactive Streamlit dashboard for visualizing, comparing, and forecasting the monthly power consumption of the PJM East (PJME) region. This application offers a hands-on interface for comprehensive time-series analysis, utilizing multiple statistical and deep learning models to predict future energy demand.
 
 ## 🔮 Features
