@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+torch
+holidays
+requests
+tensorflow
+statsmodels
+seaborn
+prophet
+pmdarima
+streamlit-lottie
+scikit-learn
